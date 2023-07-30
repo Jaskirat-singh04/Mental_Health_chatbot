@@ -45,6 +45,11 @@ To test the chatbot's responses, you can ask questions or provide prompts relate
 - I'm feeling really depressed and hopeless. What should I do?
 - How can I deal with thoughts of self-harm?
 
+## Results
+![image](https://github.com/Jaskirat-singh04/Mental_Health_chatbot/assets/83869412/a59262d4-175e-4392-adf3-222f4f1c5dfb)
+![image](https://github.com/Jaskirat-singh04/Mental_Health_chatbot/assets/83869412/755bed89-05d0-46d0-9133-8ce2684f4389)
+![image](https://github.com/Jaskirat-singh04/Mental_Health_chatbot/assets/83869412/f2dd77fe-680f-462e-b07b-f17dc82e16ad)
+![image](https://github.com/Jaskirat-singh04/Mental_Health_chatbot/assets/83869412/afb77fee-d8aa-4802-844c-1ecc55fe3e6c)
 
 
 
